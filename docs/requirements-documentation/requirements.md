@@ -4,8 +4,8 @@ sidebar_position: 3
 
 # Requirements
 
-- Klien front-end aplikasi harus dibangun menggunakan HTML, CSS, dan JavaScript, dan harus dirancang agar responsif dan bekerja dengan baik di perangkat seluler.
-- Klien front-end harus menggunakan RESTful API untuk berkomunikasi dengan server backend.
+- Client front-end aplikasi harus dibangun menggunakan HTML, CSS, dan JavaScript, dan harus dirancang agar responsif dan bekerja dengan baik di perangkat seluler.
+- Client front-end harus menggunakan RESTful API untuk berkomunikasi dengan server backend.
 - Server backend aplikasi harus dibangun menggunakan Python dan framework Flask.
 - Server backend harus menggunakan database MySQL untuk menyimpan latihan dan data aplikasi lainnya.
 - Server backend harus menggunakan library Flask-SQLAlchemy untuk berinteraksi dengan database dan melakukan operasi CRUD (buat, baca, perbarui, hapus) pada latihan.
