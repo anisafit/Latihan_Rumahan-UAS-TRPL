@@ -57,7 +57,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'To-do List Application',
+        title: 'Latihan Rumahan',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
