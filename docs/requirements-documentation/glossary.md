@@ -16,6 +16,7 @@ sidebar_position: 5
 | HTML    	|  singkatan dari Hypertext Markup Language, yaitu bahasa markup standar untuk membuat dan menyusun halaman dan aplikasi web.                                               	|
 | JavaScript    	|  suatu bahasa pemrograman tingkat tinggi dan dinamis.                                               	|
 | MySQL    	|  sebuah sistem manajemen database yang berguna untuk mengelola database di dalam website.                                               	|
+| Mobile    	|  benda yang berteknologi tinggi dan dapat bergerak tanpa menggunakan kabel                                               	|
 | Python    	|  sebuah bahasa pemrograman yang digunakan untuk membuat aplikasi, perintah komputer, dan melakukan analisis data.                                               	|
 | RESTful API    	|  antarmuka yang digunakan oleh dua sistem komputer untuk bertukar informasi secara aman melalui internet.                                                	|
 | Server    	|   sebuah sistem komputer yang menjalankan jenis layanan tertentu dalam sebuah jaringan komputer.                                               	|
