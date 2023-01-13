@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Introduction
 
-The to-do list application is a web-based tool that allows users to create, manage, and track their daily tasks. The application will be designed for use on desktop and mobile devices.
+Latihan Rumahan kegiatan yang berkaitan dengan menjaga kesehatan dan kondisi fisik yang baik. Kelebihan dari latihan rumahan yaitu kamu dapat memesan pelatih pribadi yang akan membantu kamu mencapai tujuan kesehatan dan kondisi fisik kamu dengan lebih efektif. Pelatih pribadi akan memberikan panduan yang dapat disesuaikan dengan kebutuhan kamu, membuat rencana latihan yang sesuai dengan kemampuan kamu, memberikan dukungan moral dan umpan balik yang bermanfaat untuk memotivasi kamu untuk terus berlatih.
 
 # Background
 
