@@ -6,9 +6,9 @@ sidebar_position: 1
 
 ![To-dolist](./todolist.png)
 
-Welcome to our to-do list application! This web-based tool is designed to help you manage your daily tasks and stay organized. Whether you need to keep track of groceries to buy, tasks to complete at work, or personal goals to achieve, our application has you covered. With its clean and simple user interface, you can easily add, edit, and delete tasks, and mark them as complete when you're finished. You can also organize your tasks into different categories or lists to help you stay focused and on track. We hope that our to-do list application becomes a valuable tool in your daily life. Thank you for choosing us!
+Latihan Rumahan kegiatan yang berkaitan dengan menjaga kesehatan dan kondisi fisik yang baik. Ini dapat dilakukan dengan beragam cara, seperti olahraga, latihan, dan perubahan gaya hidup. Kelebihan dari latihan rumahan ini yaitu kamu dapat memesan pelatih/coach pribadi yang akan membantu kamu mencapai tujuan kesehatan dan kondisi fisik kamu dengan lebih efektif. Pelatih pribadi akan memberikan kamu panduan yang dapat disesuaikan dengan kebutuhan kamu dan membuat rencana latihan yang sesuai dengan kemampuan kamu. Kamu dapat membangun otot dan menjaga kebugaran di rumah tanpa harus pergi ke pusat kebugaran. Mereka juga dapat memberikan dukungan moral dan memberikan umpan balik yang bermanfaat untuk memotivasi Anda untuk terus berlatih.
 
-The to-do list application is a web-based tool that allows users to create, manage, and track their daily tasks. The application will be designed for use on desktop and mobile devices.
+Latihan rumahan ini memiliki latihan untuk perut, dada, kaki, lengan, dan bokong serta latihan seluruh tubuh. Semua latihan dirancang oleh para ahli. Dengan  adanya pelatih, jadi kamu tidak perlu pergi ke pusat kebugaran.Latihan-latihan ini dapat membentuk otot secara efektif dan membantu Anda mendapatkan perut sixpack di rumah.
 
 # Background
 
