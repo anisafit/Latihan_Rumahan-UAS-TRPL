@@ -12,4 +12,5 @@ Latihan rumahan ini memiliki latihan untuk perut, dada, kaki, lengan, dan bokong
 
 # Background
 
-There are many to-do list applications available on the market, but many of them are either too complex or lack important features. The goal of this project is to create a simple, yet powerful to-do list application that meets the needs of a wide range of users.
+Ada banyak aplikasi latihan rumahan yang tersedia di pasaran, tetapi banyak di antaranya memiliki fitur yang sama semua atau kekurangan fitur penting. Tujuan dari pembuatan aplikasi latihan rumahan dengan adanya fitur pemesanan pelatih adalah untuk memberikan solusi kesehatan dan kebugaran yang lebih efektif dan personal bagi pengguna. Serta memberikan panduan latihan yang disesuaikan dengan kebutuhan pengguna, dengan bantuan dari pelatih pribadi yang dapat dipesan melalui aplikasi.
+
