@@ -4,8 +4,8 @@ sidebar_position: 2
 
 # Requirements
 
-- The application must be accessible from any modern web browser.
-- The application must allow users to create, edit, and delete tasks.
-- The application must allow users to mark tasks as complete.
-- The application must allow users to organize tasks into different categories or lists.
-- The application must have a responsive design to ensure that it works well on both desktop and mobile devices.
+- Client front-end aplikasi harus dibangun menggunakan HTML, CSS, dan JavaScript, dan harus dirancang agar responsif dan bekerja dengan baik di perangkat seluler.
+- User Interface harus mengizinkan pengguna untuk mengedit latihan yang ada dengan mengubah nama latihan, atau tanggal jatuh tempo.
+- User Interface harus memungkinkan pengguna menandai latihan sebagai selesai atau tidak selesai.
+- Aplikasi harus memiliki sistem notifikasi yang mengirimkan pengingat kepada pengguna melalui email atau push notification ketika latihan mendekati tanggal.
+- Aplikasi harus memiliki sistem masuk yang aman untuk melindungi data pengguna.
