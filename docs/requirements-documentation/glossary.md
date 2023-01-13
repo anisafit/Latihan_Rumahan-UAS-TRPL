@@ -6,7 +6,11 @@ sidebar_position: 5
 
 | **Term** 	| **Description**                                                                                                               	|
 |----------	|-------------------------------------------------------------------------------------------------------------------------------	|
-| Task     	| A single item on a user's to-do list.                                                                                         	|
-| Category 	| A grouping of tasks that share a common theme or purpose.                                                                     	|
-| List     	| A collection of tasks that can be filtered and sorted by the user.                                                            	|
-| Client   	| The front-end portion of the application that is responsible for displaying the user interface and interacting with the user. 	|
+| CRUD    	| singkatan yang berasal dari Create, Read, Update, dan Delete                                              	|
+| CSS	| Cascading Style Sheet merupakan aturan untuk mengatur beberapa komponen dalam sebuah web sehingga akan lebih terstruktur dan seragam                                                            	|
+| Client   	| Bagian front-end dari aplikasi yang bertanggung jawab untuk menampilkan antarmuka pengguna dan berinteraksi dengan pengguna 	|
+| Database    	| Kumpulan data yang dikelola sedemikian rupa berdasarkan ketentuan tertentu yang saling berhubungan sehingga mudah dalam pengelolaannya.                                               	|
+| Flask-SQLAlchemy  	| merupakan sekumpulan perangkat lunak dengan sumber terbuka untuk SQL dan Pemetaan Objek Relasional untuk bahasa pemrograman Python.                                               	|
+| Framework    	| Framework adalah sebuah kerangka kerja yang digunakan untuk mengembangkan website                                               	|
+| Front-end    	| merupakan salah satu bagian dari website yang menampilkan tampilan untuk para pengguna.                                    	|
+| HTML    	|  singkatan dari Hypertext Markup Language, yaitu bahasa markup standar untuk membuat dan menyusun halaman dan aplikasi web.                                               	|
