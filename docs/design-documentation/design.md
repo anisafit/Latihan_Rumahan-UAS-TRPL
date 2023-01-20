@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Design
 
-The to-do list application will be built using a standard three-tier architecture, with a front-end client, a backend server, and a database. The front-end client will be implemented using HTML, CSS, and JavaScript, and will communicate with the backend server using a RESTful API. The backend server will be implemented using Python and the Flask framework, and will use a MySQL database to store the tasks and other application data.
+Aplikasi Latihan Rumahan akan dibangun menggunakan front-end client, backend server, dan database. Client front-end akan diimplementasikan menggunakan HTML, CSS, dan JavaScript, dan akan berkomunikasi dengan server backend menggunakan RESTful API. Server backend akan menggunakan database MySQL untuk menyimpan tugas dan data aplikasi lainnya.
 
 # User interface design:
 
