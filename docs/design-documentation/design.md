@@ -25,4 +25,6 @@ Screenshots of mockups
 some caption.
 
 # Demo
-[To-do List App](https://todo.microsoft.com/)
+[Latihan Rumahan]
+- (https://www.figma.com/file/R4EdIliQQYRS7jPsmrnBc2/UTS_Anisa?node-id=0%3A1&t=tgvhG3if9koMlTVG-1)
+- (https://www.figma.com/file/tD0uDK9JWBHsNHsGgInfJn/Anisa_UI%2FUX?node-id=18%3A293&t=IxySRiit0v5zxTUN-1)
