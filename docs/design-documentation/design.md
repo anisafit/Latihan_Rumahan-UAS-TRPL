@@ -14,14 +14,14 @@ User Interface untuk aplikasi latihan rumahan akan sederhana, dengan fokus pada 
 
 Screenshots of wireframes
 
-![1](./img/app_todo.webp)
+![1](./img/wireframe.png)
 some caption.
 
 ## Mockups
 
 Screenshots of mockups
 
-![2](./img/app_todo2.webp)
+![2](./img/mockup.png)
 some caption.
 
 # Demo
