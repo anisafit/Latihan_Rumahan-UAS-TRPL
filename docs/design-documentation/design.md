@@ -22,6 +22,7 @@ some caption.
 Screenshots of mockups
 
 ![2](./img/mockup.png)
+
 some caption.
 
 # Demo
