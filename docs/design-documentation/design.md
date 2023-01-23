@@ -15,6 +15,7 @@ User Interface untuk aplikasi latihan rumahan akan sederhana, dengan fokus pada 
 Screenshots of wireframes
 
 ![1](./img/wireframe.png)
+
 Ini merupakan contoh wireframe dari aplikasi latihan rumahan. Ini gambaran awal untuk membuat aplikasi latihan rumahan nantinya. dimana ada tampilam latihan, temukan, jadwal serta pengaturan. 
 
 ## Mockups
