@@ -19,8 +19,6 @@ Aplikasi latihan rumahan akan diuji menggunakan teknik pengujian manual. Penguji
 
 Pilihan deployment yang tepat akan tergantung pada kompleksitas aplikasi, anggaran, dan jumlah pengguna yang diharapkan. Jika aplikasi memiliki jumlah pengguna yang besar dan harus tersedia 24/7, maka menggunakan platform cloud atau layanan hosting web yang dapat diandalkan adalah pilihan yang baik. Namun, jika aplikasi hanya digunakan oleh jumlah pengguna yang terbatas atau tidak memerlukan ketersediaan yang tinggi, maka deploying secara lokal atau menggunakan containerization mungkin lebih cocok.
 
-Aplikasi daftar tugas akan diterapkan ke mesin virtual berbasis cloud yang menjalankan Ubuntu Linux. Aplikasi akan di-container menggunakan Docker dan di-deploy menggunakan continuous integration and delivery (CI/CD) pipeline. Pipeline akan dikonfigurasi untuk menerapkan versi baru aplikasi secara otomatis setiap kali perubahan kode dibuat dan didorong ke repositori.
-
 # Maintenance
 
 Aplikasi latihan rumahan akan dikelola oleh tim pengembang yang akan bertanggung jawab untuk memperbaiki bug, menambahkan fitur baru, dan memastikan bahwa aplikasi tetap up-to-date. Tim akan menggunakan proses pengembangan yang gesit, dengan pembaruan dan rilis reguler untuk menjaga agar aplikasi tetap segar dan bermanfaat bagi pengguna.
