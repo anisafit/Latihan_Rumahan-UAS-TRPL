@@ -18,8 +18,11 @@ sidebar_position: 2
 
 - Use Case Diagram 
 
+
 ![2](./img/usecase.jpeg)
 
+
 - Activity Diagram
+
 
 ![3](./img/activitydiagram.jpeg)
